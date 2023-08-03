@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Gosh
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Goshmx
+tagline:          'Blog personal'
+description:      'Ideas, código y vida entre música binaria.'
 url:              https://goshmx.github.io/blog
 baseurl:          https://goshmx.github.io/blog/
 
