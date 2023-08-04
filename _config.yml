@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Goshmx
 tagline:          'Blog personal'
 description:      'Ideas, código y vida entre música binaria.'
-url:              https://goshmx.github.io/blog
-baseurl:          https://goshmx.github.io/blog/
+url:              https://goshmx.tech
+baseurl:          https://goshmx.tech/
 
 author:
   name:           'Gosh Hernández'
