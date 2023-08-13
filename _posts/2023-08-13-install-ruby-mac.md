@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configurar php-mcrypt on macOS usando MAMP
+title: Instalar Ruby 3 en macOS
 ---
 
 ### Instalar Ruby 3 en macOS
