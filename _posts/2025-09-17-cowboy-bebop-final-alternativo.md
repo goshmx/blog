@@ -3,8 +3,7 @@ layout: post
 title: Y si Spike hubiera sobrevivido? Un final alternativo para Cowboy Bebop
 ---
 
-![image](https://github.com/user-attachments/assets/b0bd9232-2f80-4ca1-bc7d-6a996823f142)
-
+![image](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/12/cowboy-bebop.jpg?tf=1200x)
 
 Tenía un rato ya que no veía Cowboy Bebop, siento que es una de esas series que hace bien al corazón, y de vez en vez suelo revisitarla,y siempre encuentro mensajes e ideas nuevas que no había notado antes.
 
