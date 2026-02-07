@@ -79,7 +79,9 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: 'Caveat', cursive;
+  font-family: "Nothing You Could Do", cursive;
+  font-weight: 400;
+  font-style: normal;
   font-size: 3.25rem;
 }
 
